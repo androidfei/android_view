@@ -1,1 +1,2 @@
-# android_view
+# android艺术探索view部分的代码操作
+view的滑动，动画，onmeasure方法onlayout方法的理解，view的事件传递机制详解
